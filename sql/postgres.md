@@ -4,7 +4,7 @@
 
 <!-- notecardId: 1691717853024 -->
 
-<img src="https://raw.githubusercontent.com/sqlsensei/anki_cards/master/sql/images/postgres_replace.png">
+<img src="https://raw.githubusercontent.com/miyamotoed/anki-cards/master/sql/images/postgres_replace.png">
 
 ## Who created Markdown?
 
