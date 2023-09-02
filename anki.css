@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;500&family=Montserrat:wght@500&display=swap");
+
+:root {
+  --main-yellow-color: #e7cea6;
+  --main-blue1-color: #0a6ebd;
+  --main-blue2-color: #5a96e3;
+  --main-blue3-color: #a1c2f1;
+}
+
+hr {
+  color: var(--main-blue1-color);
+}
+
+img {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #0a6ebd;
+  border-radius: 14px;
+}
+
+.nightMode img {
+  border-color: var(--main-blue2-color);
+}
+
+a {
+  border: 1;
+  border-color: var(--main-blue1-color);
+}
+
+.nightMode a {
+  color: var(--main-blue3-color);
+}
+
+hr {
+  border: 1;
+  border-color: var(--main-yellow-color);
+}
+
+.card {
+  font-family: "Inconsolata", monospace;
+  font-size: 1.2em;
+  text-align: center;
+  background-color: #fff;
+  color: var(--main-blue1-color);
+}
+
+.card.nightMode {
+  color: var(--main-blue3-color);
+}
+
+.mobile .card {
+  color: var(--main-blue3-color);
+}
+
+.mobile .card.night_mode {
+  color: var(--main-blue3-color);
+}
+
+.container {
+  margin: 0em 0.5em;
+  text-justify: auto;
+  text-align: center;
+  color: var(--main-blue1-color);
+}
+
+.text-left {
+  text-align: left;
+}
+
+.mobile .night_mode .container {
+  color: var(--main-yellow-color);
+}
+
+.container a img {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.description {
+  margin: 0em 0.5em;
+  text-align: justify;
+  color: var(--main-blue1-color);
+}
+
+/* .mobile .night_mode .description {
+  color: var(--main-yellow-color);
+} */
+
+.nightMode .description {
+  color: var(--main-yellow-color);
+}
+
+.border-code {
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--main-yellow-color);
+  border: 1px 1px 1px 0px;
+  border-radius: 17px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.cloze {
+  color: var(--main-blue3-color);
+}
+
+.nightMode .cloze {
+  color: #00bfff;
+}
+
+.mobile .night_mode .cloze {
+  color: #00bfff;
+}
+
+mark { 
+  background-color: #95d1ff;
+  color: black;
+  padding: 0em 0.5em 0em;
+  border-radius: 25px;
+}
