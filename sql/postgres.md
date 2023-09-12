@@ -6,13 +6,12 @@
 
 <img src="https://raw.githubusercontent.com/miyamotoed/anki-cards/master/sql/images/postgres_replace.png">
 
-## Who created Markdown?
+## Updating duplicate rows using subquery
 
 <!-- notecardId: 1691717853083 -->
 
 
-John Gruber created the Markdown language in 2004 in collaboration with
-Aaron Swartz on the syntax.
+<img src="https://raw.githubusercontent.com/miyamotoed/anki-cards/master/sql/images/postgres_update_subquery.png">
 
 ## Update
 
