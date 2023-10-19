@@ -14,6 +14,8 @@
 
 ## DELETE statement with USING clause
 
+<!-- notecardId: 1694489707658 -->
+
 <img src="https://raw.githubusercontent.com/miyamotoed/anki-cards/master/sql/images/postgres_delete_with_using_clause.png">
 ## Update
 
