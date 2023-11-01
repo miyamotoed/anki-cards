@@ -3,25 +3,15 @@
 ## find
 
 <div class="container">
-    Que pasa chavales
     <br>
-    <img src="https://media.giphy.com/media/yJFeycRK2DB4c/giphy.gif">
+    <img src="https://www.solvetic.com/uploads/monthly_06_2019/tutorials-9832-0-54958600-1561026676.png">
 </div>
-
-%
-
-```js
-`string text`
-
-`string text line 1
- string text line 2`
-
-`string text ${expression} string text`
-
-tagFunction`string text ${expression} string text`
-```
 
 ## man
 
 <!-- notecardId: 1691545575953 -->
 
+<div class="container">
+    <br>
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-12-11-20-58-48.png">
+</div>
